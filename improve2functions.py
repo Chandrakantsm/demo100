@@ -26,7 +26,7 @@
 # _______3rd_______________
 # def getdata(m1,m2,m3):
 #     print("Enter your details\n")
-    
+        
 #     msg1="Enter your name: "
 #     msg2="Enter your age: "
 #     msg3="Enter your salary: "
@@ -39,5 +39,8 @@
 # def display(name,age,salary):
 #     print("Hello ",name," as your age is ",age," and your salary is ",salary," so we offer you the loan.")
 
-#getdata()
+# getdata()
 
+def getdata():
+
+   

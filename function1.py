@@ -49,4 +49,3 @@ print("The salary is ",salary)
 # print(ans) 
 
 
-

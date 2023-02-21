@@ -1,12 +1,9 @@
 #prg to find, weather a number is positive or negative or zero
 
-num=1
+num=int(input("Enter the number "))
 if num>0:
     print("The number is positive")
-    elseif num<0:
+elif num<0:
     print("the number is negative")
-else
+else:
     print("The number is zero")
-
-# print("\v hello  \vhipython\v  world\v")
-#print("\110")

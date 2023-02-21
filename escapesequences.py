@@ -38,7 +38,7 @@
 # print("\twel\tcome\tto\tpython")
 
 # #\v vertical tab
-# print("\v\vpython")  # vertical rtab not coming
+# print("\v\vpython")  # vertical tab not coming
 # print("hello \v python " )
 
 # # 16 bit hex value
@@ -50,28 +50,4 @@
 # print("\000")
 # print("\112")
 # print("\120")
-
-
-
-
-
-
-
-# \a ASCII bell
-
-# \b ASCII back space
-
-# \f ASCII form feed 
-
-# \n New line
-
-# \r Carriage return
-
-#\t  Horizontal Tab
-
-# \v vertical tab
-
-# \x 16 bit Hex value
-
-#\OOO Octal value
 

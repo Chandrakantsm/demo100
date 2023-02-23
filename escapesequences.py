@@ -51,3 +51,25 @@
 # print("\112")
 # print("\120")
 
+# print(oct(9),(11),oct(11),bin(15))
+# print(oct(17))
+# print(bin(8))
+# print(bin(5))
+# num=90
+# print(oct(num)) 
+# print(bin(num))
+
+# cost=int(5684)
+# print(cost)
+      
+# a,b=0o11,0o16
+# print(a,bin(a),b,bin(b))
+
+c=0b101111
+print(c)
+d=0o115
+print(d)
+e=0x178
+print(e)
+a=246
+print(bin(a),oct(a),hex(a))

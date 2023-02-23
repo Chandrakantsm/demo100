@@ -73,3 +73,6 @@ e=0x178
 print(e)
 a=246
 print(bin(a),oct(a),hex(a))
+
+x="true"
+print(x)

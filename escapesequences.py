@@ -76,4 +76,6 @@ print(bin(a),oct(a),hex(a))
 
 x="true"
 print(x)
+
+x=None
 print(x)

@@ -3,6 +3,10 @@ def sqr(num):
         print("result of sqr =",result)
 sqr(12) 
 
+def sum(a,b):
+    return a+b
+print(sum(10,20.5))    
+
 # def sqr(num): error  in this block
 #         result=num*num
 #         print("result of sqr =",result)
@@ -51,20 +55,20 @@ sqr(12)
 #prg to accept and print employee data  2 times 
 
 
-Add two numbers
-#add two numbers
-# a=10             #a,b=10,20
-# b=20                
-# c=a+b
-# print("The sum is ",c)  
+# Add two numbers
+# #add two numbers
+# # a=10 ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ #a,b=10,20
+# # b=20 ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½
+# # c=a+b
+# # print("The sum is ",c) ï¿½
 
-# a=b=10
-# c=a+b
-# print("The sum of ",a," and", b, "is",c)
+# # a=b=10
+# # c=a+b
+# # print("The sum of ",a," and", b, "is",c)
 
-a=int(input(print("Enter the value of a")))  # float values not accepting
-b=int(input(print("Enter the value of b")))
-print("The sum of ",a,"and",b,"is",a+b)      #  print ("sum is ",sum=a+b) is giving errors
+# a=int(input(print("Enter the value of a"))) ï¿½# float values not accepting
+# b=int(input(print("Enter the value of b")))
+# print("The sum of ",a,"and",b,"is",a+b) ï¿½ ï¿½ ï¿½# ï¿½print ("sum is ",sum=a+b) is giving errors
 
 
 

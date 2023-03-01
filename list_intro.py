@@ -60,3 +60,26 @@
 # print("Before deleting\n",newlist )
 # del(newlist)
 # print("After deleting",newlist)
+
+#converting string to list using split function
+message="python is programmimg language."
+print(message.split())
+
+#use of split() function with a delimiter
+text='p,y,t,h,o,n'
+print(text.split(','))
+
+nlis_1=['a','b','hello','python']
+nlis_2=[1,2,3,4,5,6,]
+print(len(nlis_1))
+print(len(nlis_2))
+print(nlis_1+nlis_2)
+print(nlis_1*3)
+print(nlis_2*2)
+for i in nlis_1:
+    print(i)
+
+for i in nlis_2:
+    print(i)
+print(4 in nlis_1)    
+print(4 in nlis_2)

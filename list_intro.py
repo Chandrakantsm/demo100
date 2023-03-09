@@ -136,11 +136,12 @@
 # print(number,type(number))
 
 # eval() function converts a string into a float or int
-expression="8+7"
+expression="8+8"
 total=eval(expression)
 print("sumof the expression is:",total)
 print(type(expression))
 print(type(total))
+print(" done to check") 
 
 
 

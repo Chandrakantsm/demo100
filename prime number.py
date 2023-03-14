@@ -1,13 +1,14 @@
-n=int(input("Enter the number"))
-flag=False
+n=int(input("Enter a number"))
+Flag=False
 
-#for j in range(2,n): 
-    
-for i in range (2,n):
-        if(n%2==0):
-            flag = True
-            break
-if flag:
-            print(n,"is not a prime number")
+if n%2==0:
+    print(n,"is  not a prime number ")
 else:
-            print(n,"is a prime number")    
+    for i in range(3,n):
+        if n%i==0:
+            Flag=True   
+            break 
+    if Flag:
+        print(n,"is not a prime number") 
+    else:
+        print(n,"is not a prime number")       

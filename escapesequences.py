@@ -69,10 +69,10 @@
 # print(c)
 # d=0o115
 # print(d)
-# e=0x178
-# print(e)
-# a=246
-# print(bin(a),oct(a),hex(a))
+e=0x2b8
+print(e)
+a=110
+print(bin(a),oct(a),hex(a))
 
 # x="true"
 # print(x)

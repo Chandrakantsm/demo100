@@ -4,16 +4,16 @@ def getmarks(sub1,sub2):
     sub1=int(input("maths marks pls"))
     sub2=int(input("stats marks pls"))
     
-def calculate(): 
-    total = sub1+sub2   
-    avg = total/2
+def avg(): 
+    result = (sub1+sub2)/2
+    return result
     
 def exam_result(): 
-    if (avg>35):   
-        result = pass
+    if ((avg)>35):   
+        print("student passes")
     else:   
-        result = fail 
+        print("student fails")
         
-print(exam_result)
+print(exam_result())
 
 

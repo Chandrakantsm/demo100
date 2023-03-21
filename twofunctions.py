@@ -5,8 +5,8 @@
 #     sub2=int(input("stats marks pls"))
 #     return 
 
-sub1=50
-sub2=60
+sub1=51
+sub2=61
 
 
 def avg(sub1,sub2): 

@@ -14,9 +14,9 @@ def avg(s1,s2):
 
 def exam_result(performance):    
     if (performance>35):
-        print("student passes") 
+        print("student passes give peda") 
     else:
-        print(" student fails")    
+        print(" student fails eat peda")    
 
 getmarks()   
 

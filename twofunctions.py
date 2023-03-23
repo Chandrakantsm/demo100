@@ -1,24 +1,27 @@
-# prg to create marks card
-
-# def getmarks(sub1,sub2): 
-#     sub1=int(input("maths marks pls"))
-#     sub2=int(input("stats marks pls"))
-#     return 
-
-sub1=51
-sub2=61
-
-
-def avg(sub1,sub2): 
-    result = (sub1+sub2)/2
+def getmarks():
+    sub1=int(input("Enter the marks for maths pls"))
+    sub2=int(input("Enter the marks for stats pls"))
+    print(sub1,sub2)
+    result_avg=avg(sub1,sub2)
+    exam_result(result_avg)
+    
+    
+def avg(s1,s2):
+    result=(s1+s2)/2
+    print("avg:", result)
     return result
     
-def exam_result(): 
-    if (avg()>35):
-        print("student passes")
-    else:   
-        print("student fails")
-        
-exam_result()
+
+def exam_result(performance):    
+    if (performance>35):
+        print("student passes") 
+    else:
+        print(" student fails")    
+
+getmarks()   
+
+
+
+
 
 

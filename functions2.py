@@ -18,6 +18,5 @@ def oddeven(sum):
         print("The sum ",sum," is odd")  
     choice=input("Do you want to continue?:y or n")
     while choice == "y":
-        return
-    getdata()
+        return getdata()
 getdata()          

@@ -1,7 +1,7 @@
 def main():
     a=10
     result=concat_function(a)
-    my_string="the entered value"+str(a)+"is even" "with remainder: " +str(result)
+    my_string="the entered value " + str(a) + "is even" "with remainder: " + str(result)
     display_result(my_string,result)
     
         

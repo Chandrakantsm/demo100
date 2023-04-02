@@ -35,19 +35,31 @@
         
 # main()  
 
-def main():
-    p=1000  
-    t=2
-    r=8
-    interest(p,t,r)
+# def main():
+#     p=1000  
+#     t=2
+#     r=8
+#     interest(p,t,r)
     
-def interest(p,t,r) :
-    si=p*t*r/100  
-    display(si)
+# def interest(p,t,r) :
+#     si=p*t*r/100  
+#     display(si)
     
-def display(si):
-    print("simple interest is Rs", si )
+# def display(si):
+#     print("simple interest is Rs", si )
     
-main()    
+# main()    
+
+# def add(n1,n2):
+#     result=n1+n2
+#     return result
+# print(add(5,6))
+
+def mul(a,b):
+    result=a*b
+    return result
+print(mul(5,6))
+    
+
         
     

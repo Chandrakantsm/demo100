@@ -1,15 +1,15 @@
 # creating a list
 # newlist=['python',25,2022]
-# #print(newlist)
+# print(newlist)
 
-# print("+ve and -ve indexing of the first element\n+ive index",newlist[0],"\n-ve index",newlist[-3] )
+# print("+ve and -ve indexing of the first element\n+ive index",newlist[0][1],"\n-ve index",newlist[-3][2] )
 
-# print(" +ve and -ve indexing of the second element\n+ive index",newlist[1],"\n-ve index",newlist[-2] )
+# print(" +ve and -ve indexing of the second element\n+ive index",newlist[1]"\n-ve index",newlist[-2] )
 
 # print("+ve and -ve  indexing of the third element\n+ive index",newlist[2],"\n-ive index",newlist[-1] )
 
-# newlist=['python',3.14,2022,[1,1,2,3,5,8,13,21,34],('hello','python',3.14,2022)]
-# newlist
+newlist=['python',3.14,2022,[1,1,2,3,5,8,13,21,34],('hello','python',3.14,2022)]
+print(newlist)
 
 # print(len(newlist))
 
@@ -136,12 +136,12 @@
 # print(number,type(number))
 
 # eval() function converts a string into a float or int
-expression="8+8"
-total=eval(expression)
-print("sumof the expression is:",total)
-print(type(expression))
-print(type(total))
-print(" done to check") 
+# expression="8+8"
+# total=eval(expression)
+# print("sumof the expression is:",total)
+# print(type(expression))
+# print(type(total))
+# print(" done to check") 
 
 
 

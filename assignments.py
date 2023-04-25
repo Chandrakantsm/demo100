@@ -4,7 +4,7 @@
 # c=a+b
 # print("The sum is ",c)  
 
-# a=b=10
+# a=b=10 bhi
 # c=a+b
 # print("The sum of ",a," and", b, "is",c)
 

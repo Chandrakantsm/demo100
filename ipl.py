@@ -6,7 +6,7 @@ import csv
 # total_sum=0
 
 set1=set()
-with open("C:/Users/User4/Desktop/ipl_2023_dataset.csv","r")as ipl:
+with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as ipl:
     file_handle = csv.reader(ipl)
     
     #  create the list of teams in ipl
@@ -19,13 +19,12 @@ with open("C:/Users/User4/Desktop/ipl_2023_dataset.csv","r")as ipl:
     print(list1)
     
     # # findings of amount spent  per skill set per team
-    for i in list1:
-        calculate(i)
-        def calculate():
+   
+    def calculate(i):
+            
             for i in file_handle:
             
-        
-                if i[4]=='Punjab Kings' and i[4]!="Unsold":
+                   if i[4]=='Punjab Kings' and i[4]!="Unsold":
                     if i[2]=="All-Rounder":
                         sum_allrounder=sum_allrounder+float(i[3])
                     elif i[2]=="Batter":
@@ -36,7 +35,8 @@ with open("C:/Users/User4/Desktop/ipl_2023_dataset.csv","r")as ipl:
                         sum_wkeeper=sum_wkeeper+float(i[3])  
             total_sum=sum_allrounder+sum_batter+sum_bowler+sum_wkeeper
        
-        
+    for i in list1:
+            calculate(i)   
     
     # for i in list1:
     #     sum_allrounder=0

@@ -19,24 +19,42 @@ with open("C:/Users/User4/Desktop/ipl_2023_dataset.csv","r")as ipl:
     print(list1)
     
     # # findings of amount spent  per skill set per team
-    
     for i in list1:
-        sum_allrounder=0
-        sum_batter=0
-        sum_bowler=0
-        sum_wkeeper=0
-        total_sum=0
-        for k in file_handle:
-            if k[2]=="All-Rounder":
-                sum_allrounder=sum_allrounder+float(k[3])
-            elif k[2]=="Batter":
-                sum_batter=sum_batter+float(k[3])  
-            elif k[2]=="Bowler": 
-                sum_bowler=sum_bowler+float(k[3])
-            elif k[2]=="Wicket-Keeper":  
-                sum_wkeeper=sum_wkeeper+float(k[3])  
-        total_sum=sum_allrounder+sum_batter+sum_bowler+sum_wkeeper
-        print(k,total_sum)
+        calculate(i)
+        def calculate():
+            for i in file_handle:
+            
+        
+                if i[4]=='Punjab Kings' and i[4]!="Unsold":
+                    if i[2]=="All-Rounder":
+                        sum_allrounder=sum_allrounder+float(i[3])
+                    elif i[2]=="Batter":
+                        sum_batter=sum_batter+float(i[3])  
+                    elif i[2]=="Bowler": 
+                        sum_bowler=sum_bowler+float(i[3])
+                    elif i[2]=="Wicket-Keeper":  
+                        sum_wkeeper=sum_wkeeper+float(i[3])  
+            total_sum=sum_allrounder+sum_batter+sum_bowler+sum_wkeeper
+       
+        
+    
+    # for i in list1:
+    #     sum_allrounder=0
+    #     sum_batter=0
+    #     sum_bowler=0
+    #     sum_wkeeper=0
+    #     total_sum=0
+    #     for k in file_handle:
+    #         if k[2]=="All-Rounder":
+    #             sum_allrounder=sum_allrounder+float(k[3])
+    #         elif k[2]=="Batter":
+    #             sum_batter=sum_batter+float(k[3])  
+    #         elif k[2]=="Bowler": 
+    #             sum_bowler=sum_bowler+float(k[3])
+    #         elif k[2]=="Wicket-Keeper":  
+    #             sum_wkeeper=sum_wkeeper+float(k[3])  
+    #     total_sum=sum_allrounder+sum_batter+sum_bowler+sum_wkeeper
+    #     print(k,total_sum)
       
         # if i[2]=="All-Rounder":
         #     sum_allrounder=sum_allrounder+float(i[3])

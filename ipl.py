@@ -1,9 +1,9 @@
 import csv
-# sum_allrounder=0
-# sum_batter=0
-# sum_bowler=0
-# sum_wkeeper=0
-# total_sum=0
+sum_allrounder=0
+sum_batter=0
+sum_bowler=0
+sum_wkeeper=0
+total_sum=0
 
 set1=set()
 with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as ipl:
@@ -21,22 +21,31 @@ with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as
     # # findings of amount spent  per skill set per team
    
     def calculate(i):
-            
-            for i in file_handle:
-            
-                   if i[4]=='Punjab Kings' and i[4]!="Unsold":
-                    if i[2]=="All-Rounder":
-                        sum_allrounder=sum_allrounder+float(i[3])
-                    elif i[2]=="Batter":
-                        sum_batter=sum_batter+float(i[3])  
-                    elif i[2]=="Bowler": 
-                        sum_bowler=sum_bowler+float(i[3])
-                    elif i[2]=="Wicket-Keeper":  
-                        sum_wkeeper=sum_wkeeper+float(i[3])  
-            total_sum=sum_allrounder+sum_batter+sum_bowler+sum_wkeeper
+         
+         sum_allrounder=0
+         sum_batter=0
+         sum_bowler=0
+         sum_wkeeper=0
+         total_sum=0    
+         with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as ipl:
+            file_handle = csv.reader(ipl)
+            for k in file_handle:
+               
+                # print("inside calci",i)
+                if k[4]==i :
+                    if k[2]=="All-Rounder":
+                        sum_allrounder=sum_allrounder+float(k[3])
+                    elif k[2]=="Batter":
+                        sum_batter=sum_batter+float(k[3])  
+                    elif k[2]=="Bowler": 
+                        sum_bowler=sum_bowler+float(k[3])
+                    elif k[2]=="Wicket-Keeper":  
+                        sum_wkeeper=sum_wkeeper+float(k[3])  
+                        total_sum=sum_allrounder+sum_batter+sum_bowler+sum_wkeeper
+            print("amount spent by",i," on all_rounders is",round(sum_allrounder/total_sum*100),total_sum,"%.")             
        
-    for i in list1:
-            calculate(i)   
+    for j in list1:
+        calculate(j)   
     
     # for i in list1:
     #     sum_allrounder=0

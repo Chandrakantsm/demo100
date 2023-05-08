@@ -1,0 +1,569 @@
+sl_no,Player Name,Type,Price Cr,Team
+0,Ben Stokes ,All-Rounder,16.25,Chennai Super Kings
+1,Ravindra Jadeja ,All-Rounder,16,Chennai Super Kings
+2,Deepak Chahar ,Bowler,14,Chennai Super Kings
+3,MS Dhoni ,Wicket-Keeper,12,Chennai Super Kings
+4,Moeen Ali ,All-Rounder,8,Chennai Super Kings
+5,Ambati Rayudu ,Batter,6.75,Chennai Super Kings
+6,Ruturaj Gaikwad ,Batter,6,Chennai Super Kings
+7,Shivam Dube ,All-Rounder,4,Chennai Super Kings
+8,Mitchell Santner ,All-Rounder,1.9,Chennai Super Kings
+9,Rajvardhan Hangargekar ,Bowler,1.5,Chennai Super Kings
+10,Prashant Solanki ,Bowler,1.2,Chennai Super Kings
+11,Kyle Jamieson ,Bowler,1,Chennai Super Kings
+12,Devon Conway ,Batter,1,Chennai Super Kings
+13,Maheesh Theekshana ,Bowler,0.7,Chennai Super Kings
+14,Nishant Sindhu ,All-Rounder,0.6,Chennai Super Kings
+15,Ajinkya Rahane ,Batter,0.5,Chennai Super Kings
+16,Dwaine Pretorius ,All-Rounder,0.5,Chennai Super Kings
+17,Matheesha Pathirana ,Bowler,0.2,Chennai Super Kings
+18,Mukesh Choudhary ,Bowler,0.2,Chennai Super Kings
+19,Shaik Rasheed ,Batter,0.2,Chennai Super Kings
+20,Simarjeet Singh ,Bowler,0.2,Chennai Super Kings
+21,Subhranshu Senapati ,Batter,0.2,Chennai Super Kings
+22,Bhagath Varma ,All-Rounder,0.2,Chennai Super Kings
+23,Ajay Mandal ,All-Rounder,0.2,Chennai Super Kings
+24,Tushar Deshpande ,Bowler,0.2,Chennai Super Kings
+25,Rishabh Pant ,Wicket-Keeper,16,Delhi Capitals
+26,Axar Patel ,All-Rounder,12,Delhi Capitals
+27,Prithvi Shaw ,Batter,8,Delhi Capitals
+28,Mitchell Marsh ,All-Rounder,6.5,Delhi Capitals
+29,Anrich Nortje ,Bowler,6.5,Delhi Capitals
+30,David Warner ,Batter,6.25,Delhi Capitals
+31,Mukesh Kumar ,Bowler,5.5,Delhi Capitals
+32,Khaleel Ahmed ,Bowler,5.25,Delhi Capitals
+33,Rilee Rossouw ,Batter,4.6,Delhi Capitals
+34,Chetan Sakariya ,Bowler,4.2,Delhi Capitals
+35,Rovman Powell ,Batter,2.8,Delhi Capitals
+36,Manish Pandey ,Batter,2.4,Delhi Capitals
+37,Mustafizur Rahman ,Bowler,2,Delhi Capitals
+38,Kuldeep Yadav ,Bowler,2,Delhi Capitals
+39,Philip Salt ,Wicket-Keeper,2,Delhi Capitals
+40,Kamlesh Nagarkoti ,Bowler,1.1,Delhi Capitals
+41,Lalit Yadav ,All-Rounder,0.65,Delhi Capitals
+42,Ishant Sharma ,Bowler,0.5,Delhi Capitals
+43,Lungi Ngidi ,Bowler,0.5,Delhi Capitals
+44,Pravin Dubey ,Bowler,0.5,Delhi Capitals
+45,Yash Dhull ,Batter,0.5,Delhi Capitals
+46,Ripal Patel ,Batter,0.2,Delhi Capitals
+47,Aman Khan ,All-Rounder,0.2,Delhi Capitals
+48,Vicky Ostwal ,Bowler,0.2,Delhi Capitals
+49,Sarfaraz Khan ,Batter,0.2,Delhi Capitals
+50,Hardik Pandya ,All-Rounder,15,Gujarat Titans
+51,Rashid Khan ,Bowler,15,Gujarat Titans
+52,Rahul Tewatia ,All-Rounder,9,Gujarat Titans
+53,Shubman Gill ,Batter,8,Gujarat Titans
+54,Mohammad Shami ,Bowler,6.25,Gujarat Titans
+55,Shivam Mavi ,Bowler,6,Gujarat Titans
+56,Josh Little ,Bowler,4.4,Gujarat Titans
+57,Yash Dayal ,Bowler,3.2,Gujarat Titans
+58,Sai Kishore ,All-Rounder,3,Gujarat Titans
+59,David Miller ,Batter,3,Gujarat Titans
+60,Abhinav Manohar ,Batter,2.6,Gujarat Titans
+61,Alzarri Joseph ,Bowler,2.4,Gujarat Titans
+62,Matthew Wade ,Wicket-Keeper,2.4,Gujarat Titans
+63,Kane Williamson ,Batter,2,Gujarat Titans
+64,Wriddhiman Saha ,Wicket-Keeper,1.9,Gujarat Titans
+65,Jayant Yadav ,Bowler,1.7,Gujarat Titans
+66,Vijay Shankar ,All-Rounder,1.4,Gujarat Titans
+67,Srikar Bharat ,Wicket-Keeper,1.2,Gujarat Titans
+68,Mohit Sharma ,Bowler,0.5,Gujarat Titans
+69,Odean Smith ,All-Rounder,0.5,Gujarat Titans
+70,Noor Ahmad ,Bowler,0.3,Gujarat Titans
+71,Darshan Nalkande ,Bowler,0.2,Gujarat Titans
+72,Urvil Patel ,Wicket-Keeper,0.2,Gujarat Titans
+73,Sai Sudharsan ,Batter,0.2,Gujarat Titans
+74,Pradeep Sangwan ,Bowler,0.2,Gujarat Titans
+75,Andre Russell ,All-Rounder,16,Gujarat Titans
+76,Shreyas Iyer ,Batter,12.25,Gujarat Titans
+77,Varun Chakaravarthy ,Bowler,12,Gujarat Titans
+78,Shardul Thakur ,Bowler,10.75,Gujarat Titans
+79,Lockie Ferguson ,Bowler,10,Gujarat Titans
+80,Venkatesh Iyer ,All-Rounder,8,Gujarat Titans
+81,Nitish Rana ,Batter,8,Gujarat Titans
+82,Sunil Narine ,All-Rounder,6,Gujarat Titans
+83,Umesh Yadav ,Bowler,2,Gujarat Titans
+84,Shakib Al Hasan ,All-Rounder,1.5,Gujarat Titans
+85,Tim Southee ,Bowler,1.5,Gujarat Titans
+86,David Wiese ,All-Rounder,1,Gujarat Titans
+87,Narayan Jagadeesan ,Wicket-Keeper,0.9,Gujarat Titans
+88,Vaibhav Arora ,Bowler,0.6,Gujarat Titans
+89,Rinku Singh ,Batter,0.55,Gujarat Titans
+90,Mandeep Singh ,Batter,0.5,Gujarat Titans
+91,Litton Das ,Wicket-Keeper,0.5,Gujarat Titans
+92,Rahmanullah Gurbaz ,Wicket-Keeper,0.5,Gujarat Titans
+93,Suyash Sharma ,Bowler,0.2,Gujarat Titans
+94,Harshit Rana ,Bowler,0.2,Gujarat Titans
+95,Anukul Roy ,All-Rounder,0.2,Gujarat Titans
+96,Kulwant Khejroliya ,Bowler,0.2,Gujarat Titans
+97,KL Rahul ,Batter,17,Lucknow Super Giants
+98,Nicholas Pooran ,Wicket-Keeper,16,Lucknow Super Giants
+99,Avesh Khan ,Bowler,10,Lucknow Super Giants
+100,Marcus Stoinis ,All-Rounder,10,Lucknow Super Giants
+101,Krunal Pandya ,All-Rounder,8.25,Lucknow Super Giants
+102,Mark Wood ,Bowler,7.5,Lucknow Super Giants
+103,Quinton de Kock ,Wicket-Keeper,6.75,Lucknow Super Giants
+104,Deepak Hooda ,All-Rounder,5.75,Lucknow Super Giants
+105,Ravi Bishnoi ,Bowler,4,Lucknow Super Giants
+106,Krishnappa Gowtham ,All-Rounder,0.9,Lucknow Super Giants
+107,Daniel Sams ,All-Rounder,0.75,Lucknow Super Giants
+108,Amit Mishra ,Bowler,0.5,Lucknow Super Giants
+109,Jaydev Unadkat ,Bowler,0.5,Lucknow Super Giants
+110,Kyle Mayers ,Batter,0.5,Lucknow Super Giants
+111,Naveen-ul-Haq ,Bowler,0.5,Lucknow Super Giants
+112,Romario Shepherd ,All-Rounder,0.5,Lucknow Super Giants
+113,Yash Thakur ,Bowler,0.45,Lucknow Super Giants
+114,Mohsin Khan ,Bowler,0.2,Lucknow Super Giants
+115,Ayush Badoni ,Batter,0.2,Lucknow Super Giants
+116,Karan Sharma ,All-Rounder,0.2,Lucknow Super Giants
+117,Yudhvir Singh ,All-Rounder,0.2,Lucknow Super Giants
+118,Mayank Yadav ,Bowler,0.2,Lucknow Super Giants
+119,Prerak Mankad ,All-Rounder,0.2,Lucknow Super Giants
+120,Swapnil Singh ,All-Rounder,0.2,Lucknow Super Giants
+121,Manan Vohra ,Batter,0.2,Lucknow Super Giants
+122,Cameron Green ,All-Rounder,17.5,Mumbai Indians
+123,Rohit Sharma ,Batter,16,Mumbai Indians
+124,Ishan Kishan ,Wicket-Keeper,15.25,Mumbai Indians
+125,Jasprit Bumrah ,Bowler,12,Mumbai Indians
+126,Tim David ,Batter,8.25,Mumbai Indians
+127,Jofra Archer ,Bowler,8,Mumbai Indians
+128,Suryakumar Yadav ,Batter,8,Mumbai Indians
+129,Dewald Brevis ,All-Rounder,3,Mumbai Indians
+130,Tilak Varma ,Batter,1.7,Mumbai Indians
+131,Jhye Richardson ,Bowler,1.5,Mumbai Indians
+132,Jason Behrendorff ,Bowler,0.75,Mumbai Indians
+133,Piyush Chawla ,Bowler,0.5,Mumbai Indians
+134,Arjun Tendulkar ,Bowler,0.3,Mumbai Indians
+135,Kumar Kartikeya ,Bowler,0.2,Mumbai Indians
+136,Duan Jansen ,Bowler,0.2,Mumbai Indians
+137,Arshad Khan ,Bowler,0.2,Mumbai Indians
+138,Hrithik Shokeen ,Bowler,0.2,Mumbai Indians
+139,Akash Madhwal ,Bowler,0.2,Mumbai Indians
+140,Raghav Goyal ,Bowler,0.2,Mumbai Indians
+141,Tristan Stubbs ,Batter,0.2,Mumbai Indians
+142,Nehal Wadhera ,All-Rounder,0.2,Mumbai Indians
+143,Shams Mulani ,All-Rounder,0.2,Mumbai Indians
+144,Ramandeep Singh ,Batter,0.2,Mumbai Indians
+145,Vishnu Vinod ,Wicket-Keeper,0.2,Mumbai Indians
+146,Sam Curran ,All-Rounder,18.5,Punjab Kings
+147,Liam Livingstone ,All-Rounder,11.5,Punjab Kings
+148,Kagiso Rabada ,Bowler,9.25,Punjab Kings
+149,Shahrukh Khan ,Batter,9,Punjab Kings
+150,Shikhar Dhawan ,Batter,8.25,Punjab Kings
+151,Jonny Bairstow ,Wicket-Keeper,6.75,Punjab Kings
+152,Rahul Chahar ,Bowler,5.25,Punjab Kings
+153,Arshdeep Singh ,Bowler,4,Punjab Kings
+154,Harpreet Brar ,Bowler,3.8,Punjab Kings
+155,Raj Bawa ,All-Rounder,2,Punjab Kings
+156,Nathan Ellis ,Bowler,0.75,Punjab Kings
+157,Prabhsimran Singh ,Wicket-Keeper,0.6,Punjab Kings
+158,Rishi Dhawan ,All-Rounder,0.55,Punjab Kings
+159,Sikandar Raza ,All-Rounder,0.5,Punjab Kings
+160,Bhanuka Rajapaksa ,Batter,0.5,Punjab Kings
+161,Harpreet Singh Bhatia ,Batter,0.4,Punjab Kings
+162,Atharva Taide ,Batter,0.2,Punjab Kings
+163,Mohit Rathee ,All-Rounder,0.2,Punjab Kings
+164,Shivam Singh ,All-Rounder,0.2,Punjab Kings
+165,Vidhwath Kaverappa ,Bowler,0.2,Punjab Kings
+166,Jitesh Sharma ,Wicket-Keeper,0.2,Punjab Kings
+167,Baltej Singh ,Bowler,0.2,Punjab Kings
+168,Virat Kohli ,Batter,15,Royal Challengers Bangalore
+169,Glenn Maxwell ,All-Rounder,11,Royal Challengers Bangalore
+170,Harshal Patel ,Bowler,10.75,Royal Challengers Bangalore
+171,Wanindu Hasaranga ,All-Rounder,10.75,Royal Challengers Bangalore
+172,Josh Hazlewood ,Bowler,7.75,Royal Challengers Bangalore
+173,Faf du Plessis ,Batter,7,Royal Challengers Bangalore
+174,Mohammed Siraj ,Bowler,7,Royal Challengers Bangalore
+175,Dinesh Karthik ,Wicket-Keeper,5.5,Royal Challengers Bangalore
+176,Anuj Rawat ,Wicket-Keeper,3.4,Royal Challengers Bangalore
+177,Will Jacks ,Batter,3.2,Royal Challengers Bangalore
+178,Shahbaz Ahmed ,All-Rounder,2.4,Royal Challengers Bangalore
+179,David Willey ,Bowler,2,Royal Challengers Bangalore
+180,Reece Topley ,Bowler,1.9,Royal Challengers Bangalore
+181,Mahipal Lomror ,All-Rounder,0.95,Royal Challengers Bangalore
+182,Finn Allen ,Batter,0.8,Royal Challengers Bangalore
+183,Siddarth Kaul ,Bowler,0.75,Royal Challengers Bangalore
+184,Rajan Kumar ,Bowler,0.7,Royal Challengers Bangalore
+185,Avinash Singh ,Bowler,0.6,Royal Challengers Bangalore
+186,Karn Sharma ,Bowler,0.5,Royal Challengers Bangalore
+187,Suyash Prabhudessai ,Batter,0.3,Royal Challengers Bangalore
+188,Sonu Yadav ,All-Rounder,0.2,Royal Challengers Bangalore
+189,Manoj Bhandage ,All-Rounder,0.2,Royal Challengers Bangalore
+190,Akash Deep ,Bowler,0.2,Royal Challengers Bangalore
+191,Himanshu Sharma ,Bowler,0.2,Royal Challengers Bangalore
+192,Rajat Patidar ,Batter,0.2,Royal Challengers Bangalore
+193,Sanju Samson ,Wicket-Keeper,14,Rajasthan Royals
+194,Prasidh Krishna ,Bowler,10,Rajasthan Royals
+195,Jos Buttler ,Wicket-Keeper,10,Rajasthan Royals
+196,Shimron Hetmyer ,Batter,8.5,Rajasthan Royals
+197,Trent Boult ,Bowler,8,Rajasthan Royals
+198,Devdutt Padikkal ,Batter,7.75,Rajasthan Royals
+199,Yuzvendra Chahal ,Bowler,6.5,Rajasthan Royals
+200,Jason Holder ,All-Rounder,5.75,Rajasthan Royals
+201,Ravichandran Ashwin ,All-Rounder,5,Rajasthan Royals
+202,Yashasvi Jaiswal ,Batter,4,Rajasthan Royals
+203,Riyan Parag ,Batter,3.8,Rajasthan Royals
+204,Navdeep Saini ,Bowler,2.6,Rajasthan Royals
+205,Adam Zampa ,Bowler,1.5,Rajasthan Royals
+206,Joe Root ,Batter,1,Rajasthan Royals
+207,Obed McCoy ,Bowler,0.75,Rajasthan Royals
+208,D Ferreira ,Wicket-Keeper,0.5,Rajasthan Royals
+209,KM Asif ,Bowler,0.3,Rajasthan Royals
+210,KC Cariappa ,Bowler,0.3,Rajasthan Royals
+211,Kuldeep Sen ,Bowler,0.2,Rajasthan Royals
+212,Dhruv Jurel ,Wicket-Keeper,0.2,Rajasthan Royals
+213,Kunal Singh Rathore ,Wicket-Keeper,0.2,Rajasthan Royals
+214,Abdul Basith ,All-Rounder,0.2,Rajasthan Royals
+215,Akash Vasisht ,All-Rounder,0.2,Rajasthan Royals
+216,Murugan Ashwin ,Bowler,0.2,Rajasthan Royals
+217,Kuldip Yadav ,Bowler,0.2,Rajasthan Royals
+218,Harry Brook ,Batter,13.25,Sunrisers Hyderabad
+219,Washington Sundar ,All-Rounder,8.75,Sunrisers Hyderabad
+220,Rahul Tripathi ,Batter,8.5,Sunrisers Hyderabad
+221,Mayank Agarwal ,Batter,8.25,Sunrisers Hyderabad
+222,Abhishek Sharma ,All-Rounder,6.5,Sunrisers Hyderabad
+223,Heinrich Klaasen ,Wicket-Keeper,5.25,Sunrisers Hyderabad
+224,Bhuvneshwar Kumar ,Bowler,4.2,Sunrisers Hyderabad
+225,Marco Jansen ,Bowler,4.2,Sunrisers Hyderabad
+226,Abdul Samad ,Batter,4,Sunrisers Hyderabad
+227,Umran Malik ,Bowler,4,Sunrisers Hyderabad
+228,T Natarajan ,Bowler,4,Sunrisers Hyderabad
+229,Kartik Tyagi ,Bowler,4,Sunrisers Hyderabad
+230,Aiden Markram ,Batter,2.6,Sunrisers Hyderabad
+231,Vivrant Sharma ,All-Rounder,2.6,Sunrisers Hyderabad
+232,Adil Rashid ,Bowler,2,Sunrisers Hyderabad
+233,Mayank Dagar ,All-Rounder,1.8,Sunrisers Hyderabad
+234,Glenn Phillips ,Wicket-Keeper,1.5,Sunrisers Hyderabad
+235,Akeal Hosein ,Bowler,1,Sunrisers Hyderabad
+236,Mayank Markande ,Bowler,0.5,Sunrisers Hyderabad
+237,Fazalhaq Farooqi ,Bowler,0.5,Sunrisers Hyderabad
+238,Upendra Yadav ,Wicket-Keeper,0.25,Sunrisers Hyderabad
+239,Sanvir Singh ,All-Rounder,0.2,Sunrisers Hyderabad
+240,Samarth Vyas ,All-Rounder,0.2,Sunrisers Hyderabad
+241,Nitish Kumar Reddy ,Wicket-Keeper,0.2,Sunrisers Hyderabad
+242,Anmolpreet Singh ,Batter,0.2,Sunrisers Hyderabad
+243,Tom Banton,Wicket-Keeper,,Unsold
+244,Kusal Mendis,Wicket-Keeper,,Unsold
+245,Chris Jordan,Bowler,,Unsold
+246,Adam Milne,Bowler,,Unsold
+247,Mujeeb Rahman,Bowler,,Unsold
+248,Tabraiz Shamsi,Bowler,,Unsold
+249,Shubham Khajuria,Batter,,Unsold
+250,Rohan Kunnummal,Batter,,Unsold
+251,Chethan L.R.,Batter,,Unsold
+252,Himmat Singh,Batter,,Unsold
+253,Corbin Bosch,All-Rounder,,Unsold
+254,Priyam Garg,All-Rounder,,Unsold
+255,Saurabh Kumar,All-Rounder,,Unsold
+256,Shashank Singh,All-Rounder,,Unsold
+257,Mohammed Azharuddeen,Wicket-Keeper,,Unsold
+258,Dinesh Bana,Wicket-Keeper,,Unsold
+259,Abhimanyu Easwaran,Wicket-Keeper,,Unsold
+260,Sumit Kumar,Wicket-Keeper,,Unsold
+261,Lance Morris,Bowler,,Unsold
+262,Mujtaba Yousuf,Bowler,,Unsold
+263,Chintal Gandhi,Bowler,,Unsold
+264,Shreyas Gopal,Bowler,,Unsold
+265,S Midhun,Bowler,,Unsold
+266,Izharulhuq Naveed,Bowler,,Unsold
+267,Travis Head,Batter,,Unsold
+268,Dawid Malan,Batter,,Unsold
+269,Sherfane Rutherford,Batter,,Unsold
+270,Paul Stirling,Batter,,Unsold
+271,Rassie Van Der Dussen,Batter,,Unsold
+272,Daryl Mitchell,All-Rounder,,Unsold
+273,Mohammad Nabi,All-Rounder,,Unsold
+274,Jimmy Neesham,All-Rounder,,Unsold
+275,Wayne Parnell,All-Rounder,,Unsold
+276,Dasun Shanaka,All-Rounder,,Unsold
+277,Taskin Ahmed,Bowler,,Unsold
+278,Dushmanta Chameera,Bowler,,Unsold
+279,Riley Meredith,Bowler,,Unsold
+280,Blessing Muzarabani,Bowler,,Unsold
+281,Sandeep Sharma,Bowler,,Unsold
+282,Johnson Charles,Wicket-Keeper,,Unsold
+283,Andre Fletcher,Wicket-Keeper,,Unsold
+284,Shai Hope,Wicket-Keeper,,Unsold
+285,Tom Latham,Wicket-Keeper,,Unsold
+286,Joshua Philippe,Wicket-Keeper,,Unsold
+287,Lorcan Tucker,Wicket-Keeper,,Unsold
+288,Shahbaz Nadeem,Bowler,,Unsold
+289,Ish Sodhi,Bowler,,Unsold
+290,Sachin Baby,Batter,,Unsold
+291,Ashwin Hebbar,Batter,,Unsold
+292,Pukhraj Mann,Batter,,Unsold
+293,Akshat Raghuwanshi,Batter,,Unsold
+294,Himanshu Rana,Batter,,Unsold
+295,Shoun Roger,Batter,,Unsold
+296,Virat Singh,Batter,,Unsold
+297,Will Smeed,Batter,,Unsold
+298,Apoorv Wankhade,Batter,,Unsold
+299,Gerald Coetzee,All-Rounder,,Unsold
+300,Evan Jones,All-Rounder,,Unsold
+301,Abid Mushtaq,All-Rounder,,Unsold
+302,Suryansh Shedge,All-Rounder,,Unsold
+303,Jagadeesha Suchith,All-Rounder,,Unsold
+304,Ricky Bhui,Wicket-Keeper,,Unsold
+305,Baba Indrajith,Wicket-Keeper,,Unsold
+306,Sheldon Jackson,Wicket-Keeper,,Unsold
+307,Aryan Juyal,Wicket-Keeper,,Unsold
+308,Kirant Shinde,Wicket-Keeper,,Unsold
+309,Luvnith Sisodia,Wicket-Keeper,,Unsold
+310,Vishnu Solanki,Wicket-Keeper,,Unsold
+311,Aniket Choudhary,Bowler,,Unsold
+312,Ravi Kumar,Bowler,,Unsold
+313,Sushant Mishra,Bowler,,Unsold
+314,Arzan Nagwaswalla,Bowler,,Unsold
+315,Ishan Porel,Bowler,,Unsold
+316,Akash Singh,Bowler,,Unsold
+317,Basil Thampi,Bowler,,Unsold
+318,Paul Van Meekeren,Bowler,,Unsold
+319,Vyshak Vijay Kumar,Bowler,,Unsold
+320,S.Ajith Ram,Bowler,,Unsold
+321,Satyajeet Bachhav,Bowler,,Unsold
+322,Tejas Baroka,Bowler,,Unsold
+323,Yuvraj Chudasama,Bowler,,Unsold
+324,Peter Hatzoglou,Bowler,,Unsold
+325,Karthik Meiyappan,Bowler,,Unsold
+326,Shivam Sharma,Bowler,,Unsold
+327,Reeza Hendricks,Batter,,Unsold
+328,Christiaan Jonker,Batter,,Unsold
+329,Brandon King,Batter,,Unsold
+330,Chris Lynn,Batter,,Unsold
+331,Karun Nair,Batter,,Unsold
+332,Pathum Nissaanka,Batter,,Unsold
+333,Jason Roy,Batter,,Unsold
+334,Gurkeerat Singh,Batter,,Unsold
+335,Harry Tector,Batter,,Unsold
+336,Najibullah Zadran,Batter,,Unsold
+337,Sean Abbott,All-Rounder,,Unsold
+338,Qais Ahmad,All-Rounder,,Unsold
+339,Charith Asalanka,All-Rounder,,Unsold
+340,Michael Bracewell,All-Rounder,,Unsold
+341,Dominic Drakes,All-Rounder,,Unsold
+342,George Garton,All-Rounder,,Unsold
+343,Chamika Karunaratne,All-Rounder,,Unsold
+344,Jamie Overton,All-Rounder,,Unsold
+345,Sandeep Warrier,All-Rounder,,Unsold
+346,Ben Dwarshuis,Bowler,,Unsold
+347,Richard Gleeson,Bowler,,Unsold
+348,Lahiru Kumara,Bowler,,Unsold
+349,Dilshan Madushanka,Bowler,,Unsold
+350,Billy Stanlake,Bowler,,Unsold
+351,Andrew Tye,Bowler,,Unsold
+352,Luke Wood,Bowler,,Unsold
+353,Priyansh Arya,Batter,,Unsold
+354,Matthew Breetzke,Batter,,Unsold
+355,Shivam Chauhan,Batter,,Unsold
+356,Rahul Gahlaut,Batter,,Unsold
+357,Sudip Gharami,Batter,,Unsold
+358,C. Hari Nishaanth,Batter,,Unsold
+359,Amandeep Khare,Batter,,Unsold
+360,Bhanu Pania,Batter,,Unsold
+361,Ekant Sen,Batter,,Unsold
+362,Akash Singh,Batter,,Unsold
+363,Himanshu Bisht,All-Rounder,,Unsold
+364,Mickil Jaiswal,All-Rounder,,Unsold
+365,G.Aniketh Reddy,All-Rounder,,Unsold
+366,Atit Sheth,All-Rounder,,Unsold
+367,M. Siddharth,All-Rounder,,Unsold
+368,Tanay Thyagarajann,All-Rounder,,Unsold
+369,Sumeet Verma,All-Rounder,,Unsold
+370,Sanjay Yadav,All-Rounder,,Unsold
+371,Ajitesh Guruswamy,Wicket-Keeper,,Unsold
+372,Yash Kothari,Wicket-Keeper,,Unsold
+373,Suresh Kumar,Wicket-Keeper,,Unsold
+374,Kumar Kushagra,Wicket-Keeper,,Unsold
+375,Anmol Malhotra,Wicket-Keeper,,Unsold
+376,Robin Minz,Wicket-Keeper,,Unsold
+377,Agniv Pan,Wicket-Keeper,,Unsold
+378,Priyesh Patel,Wicket-Keeper,,Unsold
+379,Mitesh Patel,Wicket-Keeper,,Unsold
+380,Abishek Porel,Wicket-Keeper,,Unsold
+381,Bharat Sharma,Wicket-Keeper,,Unsold
+382,Vivek Singh,Wicket-Keeper,,Unsold
+383,Abhijeet Tomar,Wicket-Keeper,,Unsold
+384,Basit Bashir,Bowler,,Unsold
+385,Nandre Burger,Bowler,,Unsold
+386,Rasikh Dar,Bowler,,Unsold
+387,Sakib Hussain,Bowler,,Unsold
+388,Waseem Khanday,Bowler,,Unsold
+389,Ravi Kiran Majeti,Bowler,,Unsold
+390,Lukman Hussain Meriwala,Bowler,,Unsold
+391,Anuj Raj,Bowler,,Unsold
+392,Ankit Singh Rajpoot,Bowler,,Unsold
+393,Prince Yadav,Bowler,,Unsold
+394,Prithviraj Yarra,Bowler,,Unsold
+395,Mushtaq Beg,Bowler,,Unsold
+396,Rocky Bhasker,Bowler,,Unsold
+397,Sanjith Devaraj,Bowler,,Unsold
+398,Allah Mohammad,Bowler,,Unsold
+399,Lalit Mohan,Bowler,,Unsold
+400,Bhuwan Rohilla,Bowler,,Unsold
+401,Aman Sharma,Bowler,,Unsold
+402,Manav Suthar,Bowler,,Unsold
+403,Tom Curran,All-Rounder,,Unsold
+404,Moises Henriques,All-Rounder,,Unsold
+405,Afif Hossain,All-Rounder,,Unsold
+406,Scott Kuggeleijn,All-Rounder,,Unsold
+407,Sisanda Magala,All-Rounder,,Unsold
+408,Craig Overton,All-Rounder,,Unsold
+409,Darcy Short,All-Rounder,,Unsold
+410,Dhananjaya Silva,All-Rounder,,Unsold
+411,Dunith Wellalage,All-Rounder,,Unsold
+412,Varun Aaron,Bowler,,Unsold
+413,Sheldon Cottrel,Bowler,,Unsold
+414,Nathan Coulter-Nile,Bowler,,Unsold
+415,Daryn Dupavillon,Bowler,,Unsold
+416,Matt Henry,Bowler,,Unsold
+417,Dhawal Kulkarni,Bowler,,Unsold
+418,Tymal Mills,Bowler,,Unsold
+419,David Payne,Bowler,,Unsold
+420,Barinder Sran,Bowler,,Unsold
+421,Glenton Stuurman,Bowler,,Unsold
+422,Anirudh Balachander,Batter,,Unsold
+423,Gourav Choudhary,Batter,,Unsold
+424,Saurav Chuahan,Batter,,Unsold
+425,Kumar Deobrat,Batter,,Unsold
+426,Chirag Gandhi,Batter,,Unsold
+427,Arman Jaffer,Batter,,Unsold
+428,Madhav Kaushik,Batter,,Unsold
+429,Priyank Panchal,Batter,,Unsold
+430,Ayush Pandey,Batter,,Unsold
+431,Rohan Patil,Batter,,Unsold
+432,Sanjay Ramaswamy,Batter,,Unsold
+433,Siddharth Yadav,Batter,,Unsold
+434,Rehan Ahmed,All-Rounder,,Unsold
+435,Prayas Barman,All-Rounder,,Unsold
+436,Rahul Buddhi,All-Rounder,,Unsold
+437,Vaisakh Chandran,All-Rounder,,Unsold
+438,Writtick Chatterjee,All-Rounder,,Unsold
+439,Prashant Chopra,All-Rounder,,Unsold
+440,Harsh Dubey,All-Rounder,,Unsold
+441,Tanush Kotian,All-Rounder,,Unsold
+442,Ninad Rathva,All-Rounder,,Unsold
+443,B. Surya,All-Rounder,,Unsold
+444,Jordan Thompson,All-Rounder,,Unsold
+445,Shivank Vashisth,All-Rounder,,Unsold
+446,Ankush Bains,Wicket-Keeper,,Unsold
+447,Christopher Benjamin,Wicket-Keeper,,Unsold
+448,Connor Esterhuizen,Wicket-Keeper,,Unsold
+449,Mohd Arslan Khan,Wicket-Keeper,,Unsold
+450,Mamidi Krishna,Wicket-Keeper,,Unsold
+451,Fazil Makaya,Wicket-Keeper,,Unsold
+452,Akshdeep Nath,Wicket-Keeper,,Unsold
+453,Deepak Punia,Wicket-Keeper,,Unsold
+454,Ateev Saini,Wicket-Keeper,,Unsold
+455,Bipin Saurabh,Wicket-Keeper,,Unsold
+456,B.R. Sharath,Wicket-Keeper,,Unsold
+457,Yashovardhan Singh,Wicket-Keeper,,Unsold
+458,Lakshay Thareja,Wicket-Keeper,,Unsold
+459,Mohit Avasthi,Bowler,,Unsold
+460,Ottneil Baartman,Bowler,,Unsold
+461,Gurnoor Singh Brar,Bowler,,Unsold
+462,Shahrukh Dar,Bowler,,Unsold
+463,Thomas Helm,Bowler,,Unsold
+464,Pankaj Jaswal,Bowler,,Unsold
+465,Venkatesh Muralidhara,Bowler,,Unsold
+466,Geet Puri,Bowler,,Unsold
+467,E. Sanketh,Bowler,,Unsold
+468,Ajay Sarkar,Bowler,,Unsold
+469,Ashok Sharma,Bowler,,Unsold
+470,Kanwar Singh,Bowler,,Unsold
+471,Fabian Allen,All-Rounder,,Unsold
+472,Carlos Brathwaite,All-Rounder,,Unsold
+473,Roston Chase,All-Rounder,,Unsold
+474,Rahkeem Cornwall,All-Rounder,,Unsold
+475,Karim Janat,All-Rounder,,Unsold
+476,Keshav Maharaj,All-Rounder,,Unsold
+477,Pawan Negi,All-Rounder,,Unsold
+478,Keemo Paul,All-Rounder,,Unsold
+479,Shivam Chaudhary,All-Rounder,,Unsold
+480,Ashwin Das,All-Rounder,,Unsold
+481,James Fuller,All-Rounder,,Unsold
+482,Chirag Jani,All-Rounder,,Unsold
+483,Akshay Karnewar,All-Rounder,,Unsold
+484,Bhagmender Lather,All-Rounder,,Unsold
+485,Lone Muzaffar,All-Rounder,,Unsold
+486,Pulkit Narang,All-Rounder,,Unsold
+487,Rohit Rayudu,All-Rounder,,Unsold
+488,Sameer Rizvi,All-Rounder,,Unsold
+489,Tunish Sawkar,All-Rounder,,Unsold
+490,Auqib Dar,Bowler,,Unsold
+491,Mukhtar Hussain,Bowler,,Unsold
+492,Ashwani Kumar,Bowler,,Unsold
+493,Hemant Kumar,Bowler,,Unsold
+494,Nathan McAndrew,Bowler,,Unsold
+495,Rajesh Mohanty,Bowler,,Unsold
+496,Ravi Sharma,Bowler,,Unsold
+497,Vikash Singh,Bowler,,Unsold
+498,Ruben Trumpelmann,Bowler,,Unsold
+499,Koushik Vasuki,Bowler,,Unsold
+500,Vasu Vats,Bowler,,Unsold
+501,Shubham Agrawal,All-Rounder,,Unsold
+502,Baba Aparajith,All-Rounder,,Unsold
+503,Anshul Kamboj,All-Rounder,,Unsold
+504,Azim Kazi,All-Rounder,,Unsold
+505,Dev Lakra,All-Rounder,,Unsold
+506,Jitender Pal,All-Rounder,,Unsold
+507,Ritwik Roy Chowdhury,All-Rounder,,Unsold
+508,Utkarsh Singh,All-Rounder,,Unsold
+509,Shubham Singh,All-Rounder,,Unsold
+510,Avneesh Sudha,All-Rounder,,Unsold
+511,Asad Jamil Ahmed,Bowler,,Unsold
+512,Bandaru Ayyappa,Bowler,,Unsold
+513,Aashish Bhatt,Bowler,,Unsold
+514,McKenny Clarke,Bowler,,Unsold
+515,Shubham Kapse,Bowler,,Unsold
+516,Gourav Koul,Bowler,,Unsold
+517,Raunak Kumar,Bowler,,Unsold
+518,Trilok Nag,Bowler,,Unsold
+519,Atal Bihari Rai,Bowler,,Unsold
+520,Ramon Simmonds,Bowler,,Unsold
+521,Rajeev Singh,Bowler,,Unsold
+522,Mohd. Wasim,Bowler,,Unsold
+523,Atharva Ankolekar,All-Rounder,,Unsold
+524,Khizar Dafedar,All-Rounder,,Unsold
+525,Naman Dhir,All-Rounder,,Unsold
+526,Sahil Dhiwan,All-Rounder,,Unsold
+527,Sampark Gupta,All-Rounder,,Unsold
+528,Jordan Hermann,All-Rounder,,Unsold
+529,Hayden Kerr,All-Rounder,,Unsold
+530,Salman Khan,All-Rounder,,Unsold
+531,Sairaj Patil,All-Rounder,,Unsold
+532,Divyaansh Saxena,All-Rounder,,Unsold
+533,Purnank Tyagi,All-Rounder,,Unsold
+534,Prince Yadav,All-Rounder,,Unsold
+535,Deepraj Gaonkar,All-Rounder,,Unsold
+536,Shubham Garhwal,All-Rounder,,Unsold
+537,Benny Howell,All-Rounder,,Unsold
+538,Deepesh Nailwal,All-Rounder,,Unsold
+539,Arjun Rapria,All-Rounder,,Unsold
+540,Shashwat Rawat,All-Rounder,,Unsold
+541,Sumit Ruikar,All-Rounder,,Unsold
+542,Shivam Sharma,All-Rounder,,Unsold
+543,Rajandeep Singh,All-Rounder,,Unsold
+544,Anunay Singh,All-Rounder,,Unsold
+545,Digvesh Singh,All-Rounder,,Unsold
+546,Pranshu Vijayran,All-Rounder,,Unsold
+547,Prerit Dutta,All-Rounder,,Unsold
+548,Ramakrishna Ghosh,All-Rounder,,Unsold
+549,Shubhang Hegde,All-Rounder,,Unsold
+550,Shamshuzama Kazi,All-Rounder,,Unsold
+551,Ayaz Khan,All-Rounder,,Unsold
+552,Amit Pachhara,All-Rounder,,Unsold
+553,Akul Pandove,All-Rounder,,Unsold
+554,Garv Sangwan,All-Rounder,,Unsold
+555,Shubham Sharma,All-Rounder,,Unsold
+556,Amit Yadav,All-Rounder,,Unsold
+557,Amit Ali,All-Rounder,,Unsold
+558,Rishabh Chauhan,All-Rounder,,Unsold
+559,Matthew Forde,All-Rounder,,Unsold
+560,Sammar Gajjar,All-Rounder,,Unsold
+561,Rajneesh Gurbani,All-Rounder,,Unsold
+562,Divyansh Joshi,All-Rounder,,Unsold
+563,Dhruv Patel,All-Rounder,,Unsold
+564,Jack Prestwidge,All-Rounder,,Unsold
+565,Aditya Sarvate,All-Rounder,,Unsold
+566,Sagar Solanki,All-Rounder,,Unsold
+567,Prenelan Subrayen,All-Rounder,,Unsold

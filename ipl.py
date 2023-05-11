@@ -43,7 +43,11 @@ with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as
                         sum_wkeeper=sum_wkeeper+float(k[3])  
                         total_sum=sum_allrounder+sum_batter+sum_bowler+sum_wkeeper
                         percent=round(sum_allrounder/total_sum*100)
+<<<<<<< HEAD
             print("amount spent by",i," all_rounders:",sum_allrounder,"batter",sum_batter,sum_percent,total_sum,"%.")             
+=======
+            print("amount spent by",i," on all_rounders is",percent,total_sum,"%.")             
+>>>>>>> 1bb75d2b9572ae3f715b9f49b22666575d4aa650
        
     for j in list1:
         calculate(j)   

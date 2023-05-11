@@ -8,7 +8,7 @@ for i in range(2,n):
         flag=True
         print(n,"is not a prime number")
         break
-    print(n,"is prime number.")  
+print(n,"is prime number.") 
     
     
       

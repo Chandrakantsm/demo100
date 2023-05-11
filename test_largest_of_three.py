@@ -1,5 +1,5 @@
 #  find the largest of three elements
-a,b,c=8,6,7
+a,b,c=8,12,7
 
 #  checks weathet a is larger than both b and c
 if (a>b) and (a>c):

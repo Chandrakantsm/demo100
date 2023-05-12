@@ -26,10 +26,11 @@ with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as
          sum_batter=0
          sum_bowler=0
          sum_wkeeper=0
-         total_sum=0    
+         total_sum=0   
+       
          with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as ipl:
             file_handle = csv.reader(ipl)
-            print("Team  all_rounder   batter     bowler    wkeeper   total sum") 
+            
             for k in file_handle:
                
                 if k[4]==i :
@@ -44,7 +45,7 @@ with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as
                         total_sum=round((sum_allrounder+sum_batter+sum_bowler+sum_wkeeper),2)
                         percent=round(sum_allrounder/total_sum*100)
                            
-            print(i," all_rounders",sum_allrounder,"batter",sum_batter,"bowler",sum_bowler,"wkeeper",sum_wkeeper,total_sum)             
+            print(i," all",sum_allrounder,"bat",sum_batter,"ball",sum_bowler,"wk",sum_wkeeper,     total_sum)             
        
     for j in list1:
         calculate(j)   

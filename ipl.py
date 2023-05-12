@@ -29,25 +29,22 @@ with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as
          total_sum=0    
          with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as ipl:
             file_handle = csv.reader(ipl)
+            print("Team  all_rounder   batter     bowler    wkeeper   total sum") 
             for k in file_handle:
                
-                # print("inside calci",i)
                 if k[4]==i :
                     if k[2]=="All-Rounder":
-                        sum_allrounder=sum_allrounder+float(k[3])
+                        sum_allrounder=round((sum_allrounder+float(k[3])),2)
                     elif k[2]=="Batter":
-                        sum_batter=sum_batter+float(k[3])  
+                        sum_batter=round(sum_batter+float(k[3]),2)  
                     elif k[2]=="Bowler": 
-                        sum_bowler=sum_bowler+float(k[3])
+                        sum_bowler=round((sum_bowler+float(k[3])),2)
                     elif k[2]=="Wicket-Keeper":  
-                        sum_wkeeper=sum_wkeeper+float(k[3])  
-                        total_sum=sum_allrounder+sum_batter+sum_bowler+sum_wkeeper
+                        sum_wkeeper=round((sum_wkeeper+float(k[3])),2)  
+                        total_sum=round((sum_allrounder+sum_batter+sum_bowler+sum_wkeeper),2)
                         percent=round(sum_allrounder/total_sum*100)
-<<<<<<< HEAD
-            print("amount spent by",i," all_rounders:",sum_allrounder,"batter",sum_batter,sum_percent,total_sum,"%.")             
-=======
-            print("amount spent by",i," on all_rounders is",percent,total_sum,"%.")             
->>>>>>> 1bb75d2b9572ae3f715b9f49b22666575d4aa650
+                           
+            print(i," all_rounders",sum_allrounder,"batter",sum_batter,"bowler",sum_bowler,"wkeeper",sum_wkeeper,total_sum)             
        
     for j in list1:
         calculate(j)   

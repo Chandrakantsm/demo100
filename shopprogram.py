@@ -38,6 +38,7 @@ add_data('2023-05-14', 'Bob', '42', 'Teacher', 'Textbook', '50')
 rows = retrieve_data(date='2023-05-15', profession='Engineer')
 for row in rows:
     print(row)
+<<<<<<< HEAD
 # In this program, the add_data() function is used to add a new row of data to a CSV file. The function takes in the date, name, age, profession, item purchased, and amount as arguments and writes them as a new row to a CSV file called data.csv.
 
 # The retrieve_data() function is used to retrieve rows of data from the CSV file based on a given query. The function takes in optional arguments for date, name, age, profession, item, and amount. It reads in the data from the CSV file and loops through each row to check if it matches the query. If a row matches the query, it is appended to a list of matching rows. The function then returns the list of matching rows.
@@ -46,3 +47,24 @@ for row in rows:
 
 # You can modify the queries passed to retrieve_data() to search for specific values in the CSV file
 
+=======
+In this program, the add_data() function is used to add a new row of data to a CSV file. The function takes in the date, name, age, profession, item purchased, and amount as arguments and writes them as a new row to a CSV file called data.csv.
+
+The retrieve_data() function is used to retrieve rows of data from the CSV file based on a given query. The function takes in optional arguments for date, name, age, profession, item, and amount. It reads in the data from the CSV file and loops through each row to check if it matches the query. If a row matches the query, it is appended to a list of matching rows. The function then returns the list of matching rows.
+
+In the example usage, three rows of data are added to the CSV file using the add_data() function. The retrieve_data() function is then called with a query for all rows with a date of '2023-05-15' and a profession of 'Engineer'. The matching rows are printed to the console.
+
+You can modify the queries passed to retrieve_data() to search for specific values in the CSV file
+
+
+2 / 2
+
+
+
+
+
+Send a message.
+
+
+Free Research Preview. ChatGPT may produce inaccurate information about people, places, or facts. ChatGPT Ma
+>>>>>>> 3a8416ff53c491d926952c4b6283618d3939986a

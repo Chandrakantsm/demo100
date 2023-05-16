@@ -45,5 +45,19 @@ obj2=truck()
 def func(obj):
     obj.display() 
 func(obj1)   
-func(obj2)            
+func(obj2)           
+
+# Encapsulation
+class parent():
+    a=0
+    __c=0
+    def __init__(self):
+        self.a="python" 
+        self.__c="programming"
+class child(parent):  
+    def __init__(self):
+        parent .__init__()
+        print(self.__c)
+obj1=parent()
+print(obj1.a)             
             

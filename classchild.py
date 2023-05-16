@@ -48,16 +48,32 @@ func(obj1)
 func(obj2)           
 
 # Encapsulation
-class parent():
-    a=0
-    __c=0
-    def __init__(self):
-        self.a="python" 
-        self.__c="programming"
-class child(parent):  
-    def __init__(self):
-        parent .__init__()
-        print(self.__c)
-obj1=parent()
-print(obj1.a)             
+# class parent():
+#     a=0
+#     __c=0
+#     def __init__(self):
+#         self.a="python" 
+#         self.__c="programming"
+# class child(parent):  
+#     def __init__(self):
+#         parent .__init__(self)
+#         print(self.__c)
+# obj1=parent()
+# print(obj1.a)  
+
+# obj2=child()
+# print(obj2.__c)         
+
+#  to inherit values from parents
+class base():
+    a=10
+    
+class derive(base):
+    b=20
+    def add(self):
+        c=self.a+self.b
+        print(c)
+obj1=derive() 
+obj1.add()       
+          
             

@@ -75,5 +75,22 @@ class derive(base):
         print(c)
 obj1=derive() 
 obj1.add()       
-          
+#   abstraction
+
+from abc import ABC, abstractmethod
+class polygan(ABC):
+    @abstractmethod
+    def sides(self):  
+        pass   
+class triangle(polygan):    
+    def triangle(self):  
+        print(" i have three sides")
+class pentagon(polygan) :       
+    def pentagon(self):
+        print(" i have five sides")    
+
+# driver code    
+r=triangle()
+r.sides()    
+        
             

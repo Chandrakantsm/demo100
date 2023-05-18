@@ -5,17 +5,19 @@ class Engineering():
     Name=""
     des=""
     salary=""
+    shift="night"
     def display(self):
         pass
     
 class Computer_Science(Engineering):
+    # shift="night"
     def CS_fun(self,Name,des,salary):
         self.name=Name
         self.des=des
         self.salary=salary
-        
+                
     def display(self):
-        print("Department of Computer Science",self.name,self.des,self.salary)
+        print("Department of Computer Science",self.name,self.des,self.salary,self.shift)
             
             
 class Electronic_communications(Engineering):

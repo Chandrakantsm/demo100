@@ -12,8 +12,8 @@ with open("C:/Users/User4/Desktop/stats.csv","r") as marks:
     for i in file_handle:
         if  i[1]!="marks1":
             marks1.append(int(i[1]))
-            # marks2.append(int(i[2]))
-            # marks3.append(int(i[3]))
+                # marks2.append(int(i[2]))
+                # marks3.append(int(i[3]))
             
            
             
@@ -28,7 +28,7 @@ with open("C:/Users/User4/Desktop/stats.csv","r") as marks:
 print("marks1 =",marks1)        
 mean=round(st.mean(marks1),3) 
 median=round(st.median(marks1),3)
-mode=(st.mode(marks1),3)
+mode=round(st.mode(marks1),3)
 
 print("Mean=",mean,". median=",median,". mode=",mode)
 

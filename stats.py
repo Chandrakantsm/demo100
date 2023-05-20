@@ -12,6 +12,10 @@ with open("C:/Users/User4/Desktop/stats.csv","r") as marks:
     for i in file_handle:
         if  i[1]!="marks1":
             marks1.append(int(i[1]))
+            # marks2.append(int(i[2]))
+            # marks3.append(int(i[3]))
+            
+           
             
     # for j in file_handle:        
     #     if   j[2]!="marks2":
@@ -22,14 +26,15 @@ with open("C:/Users/User4/Desktop/stats.csv","r") as marks:
     #         marks1.append(int(i[1]))        
             
 print("marks1 =",marks1)        
-# mean=st.mean(marks1) 
-# median=st.median(marks1)    
-# mode=st.mode(marks1)
+mean=round(st.mean(marks1),3) 
+median=round(st.median(marks1),3)
+mode=(st.mode(marks1),3)
 
-print("Mean=",round(st.mean(marks1),2),". median=",round(st.median(marks1),2) ,". mode=", round(st.mode(marks1),2))
+print("Mean=",mean,". median=",median,". mode=",mode)
 
 print("marks2= ",marks2)
-print("marks2= ",st.pstdev(marks1))
+print("std deviation of marks1= ",round((st.pstdev(marks1)),3))
+
 
          
     

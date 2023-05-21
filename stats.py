@@ -11,9 +11,8 @@ with open("C:/Users/User4/Desktop/stats.csv","r") as marks:
     
     for i in file_handle:
         if  i[1]!="marks1":
-            marks1.append(int(i[1]))
-                # marks2.append(int(i[2]))
-                # marks3.append(int(i[3]))
+            marks1.append(float(i[1]))
+            
             
            
             

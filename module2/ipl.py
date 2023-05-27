@@ -6,7 +6,8 @@ sum_wkeeper=0
 total_sum=0
 
 set1=set()
-with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as ipl:
+with open("C:/Users/User4/Desktop/ipl_2023_dataset.csv","r")as ipl:
+    # "C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r"
     file_handle = csv.reader(ipl)
     
     #  create the list of teams in ipl
@@ -28,7 +29,8 @@ with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as
          sum_wkeeper=0
          total_sum=0   
        
-         with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as ipl:
+         with open("C:/Users/User4/Desktop/ipl_2023_dataset.csv","r")as ipl:
+            #  "C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r"
             file_handle = csv.reader(ipl)
             
             for k in file_handle:
@@ -45,7 +47,8 @@ with open("C:/Users/User4/Desktop/demo100/csv files/ipl_2023_dataset.csv","r")as
                         total_sum=round((sum_allrounder+sum_batter+sum_bowler+sum_wkeeper),2)
                         percent=round(sum_allrounder/total_sum*100)
                            
-            print(i," all",sum_allrounder,"bat",sum_batter,"ball",sum_bowler,"wk",sum_wkeeper,     total_sum)             
+            print(i," all",sum_allrounder,"bat",sum_batter,"ball",sum_bowler,"wk",sum_wkeeper,total_sum)
+            list(i)             
        
     for j in list1:
         calculate(j)   
